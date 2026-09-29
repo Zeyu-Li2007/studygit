@@ -1,0 +1,29 @@
+# 系统生成的垃圾文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志
+*.log
+
+# 依赖目录
+node_modules/
+__pycache__/
+venv/
+.venv/
+
+# 编译产物
+dist/
+build/
+*.exe
+*.dll
+*.so
+
+# 编辑器配置
+.idea/
+
+# 敏感信息，不要上传
+.env
+*.key
+*.pem
+*.p12
